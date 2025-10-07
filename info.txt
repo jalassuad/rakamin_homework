@@ -1,0 +1,2 @@
+Nama Lengkap: Kuntur Jalassuad
+Alasan Belajar Git : karena Git adalah alat versi kontrol yang memungkinkan kolaborasi yang efisien dan pengelolaan kode yang terstruktur dalam proyek data. Dalam dunia data science, proyek sering melibatkan banyak eksperimen, model, dan skrip yang terus diperbarui—Git membantu melacak perubahan, menghindari konflik saat bekerja dalam tim, serta memudahkan rollback jika terjadi kesalahan.
